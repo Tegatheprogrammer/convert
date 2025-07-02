@@ -90,6 +90,10 @@ const ConverterForm = () => {
                 {isLoading ? "Getting exchange rate..." : result}
             </p>
         </form>
+        
+        <p className="mt-20">
+            Made With ❤️ By Great Anthony 
+            </p>
     )
 }
 
